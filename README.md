@@ -12,10 +12,10 @@ Sou um desenvolvedor de software apaixonado, com foco em back-end utilizando Jav
 
 ## 🔧 Tecnologias & Ferramentas
 
-- **Linguagens:** Java, TypeScript, JavaScript, Python
-- **Frameworks:** Spring Boot, Node.js, Angular, React
-- **Bancos de Dados:** PostgreSQL, MySQL
-- **Ferramentas:** Git, Docker
+- **Linguagens:** Java, TypeScript, JavaScript, Python,C#
+- **Frameworks:** Spring Boot, Node.js, Angular, React, .NET
+- **Bancos de Dados:** PostgreSQL, MySQL, SQL Server
+- **Ferramentas:** Git, Docker, Azure
 
 ## 📫 Como me encontrar
 
